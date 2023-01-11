@@ -1,3 +1,5 @@
+/*This program is to check if the entered character is a vowel or not*/
+
 package myexercise2;
 
 import java.util.Scanner;
